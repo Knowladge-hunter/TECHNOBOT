@@ -1,14 +1,14 @@
 {
-  "name": "Technobot",
-  "description": "TechnoBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://te.legra.ph/file/d882eee939a66432650b4.jpg",
+  "name": "𝚉𝙴𝚄𝚂🖤",
+  "description": "𝐈 𝐌𝐀𝐃𝐄 𝐓𝐇𝐈𝐒 𝐇𝐔𝐌𝐀𝐍𝐈𝐓𝐘 𝐓𝐎 𝐏𝐑𝐀𝐈𝐒𝐄 𝐌𝐄",
+  "logo": "https://graph.org/file/d7a65fdd9f0d0e4bc280b.jpg",
   "keywords": [
     "plugin",
     "technobot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TECHNOBOT-OP/TECHNOBOT",
+  "repository": "https://github.com/knowladge-hunter/TECHNOBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -17,24 +17,24 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "give your name",
-      "value": ""
+      "description": "",
+      "value": "𝚉𝙴𝚄𝚂🖤"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "18681911"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "f27e0ebe215e617ccf41723f134633f8"
     },
     "TECHNO_STRING": {
       "description": "Get this value by running https://replit.com/@Technoboy02/TechnoString?v=1",
-      "value": ""
+      "value": "1BVtsOJsBuxEXsiZD9nWQtAQrFHwZAmVrkRj7lbAQQVroAf0DLFW8iOKGGnJKbfpL2wmQGwKitbQAfYLzgpXrCqIK2g7nnV0WJQgfjThUZmFfAxy_z1U0eRw59yaFyKiVhq7F4Qey-7q9qUkaTpaoS-vw8S7KNvOX6G7eBzY2a1ij6PB6cWAVm1E2cTnWBNXTrFyxHfn-t5elf3RZaXlgEgFYfG60QPtSeW4Da_NGDymJP8qhaRSx9wd23xZ4pR6U1wLVxPlRit43zffIU33hUnpjiLgoogS-udw2hUx6JoNpnZQtM48h4qxZckaZxY0AZyBTo3DtinhMfn62eI47yIOGbvnOOJY="
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "6374848684:AAEF19vfiq27Ms5nD0b3XhzSsCoFq3lbcXc"
     },
     "HANDLER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
